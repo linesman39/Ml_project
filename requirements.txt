@@ -1,8 +1,10 @@
 pandas
 numpy
-seaborn == 0.12.0
+seaborn
 matplotlib
 scikit-learn
 catboost
 xgboost
+Flask
+
 #-e .
